@@ -4,6 +4,7 @@ body::before {
   height: 60px;
 }
 
+/* The map won't show without a width of height */
 #map {
   width: 100%;
   height: 100%;
